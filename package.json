@@ -1,0 +1,23 @@
+{
+  "name": "spec-next-kit",
+  "version": "0.0.2",
+  "description": "A collection of tools to help with the creation fo Spectrum Next software.",
+  "main": "bmp2tjson.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bmp2tjson": "./bin/bmp2tjson",
+    "tjson": "./bin/tjsonc"
+  },
+  "author": "",
+  "license": "ISC"
+}
