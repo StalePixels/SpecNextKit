@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bmp-js": "^0.1.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "devDependencies": {},
   "scripts": {
